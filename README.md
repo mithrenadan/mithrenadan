@@ -13,3 +13,7 @@
                             class=gh-count href=https://github.com/microsoft/playwright/stargazers
                             rel="noopener noreferrer" target=_blank aria-label="77k+ stargazers on GitHub"
                             style=display:block>77k+</a></span></div>
+
+
+P.S. Удалось написать тест в Postman, но чтобы увидеть результат нужно будет подать запрос. Вот ссылка:
+https://mithrenadan-1872648.postman.co/workspace/Maxim's-Workspace~80d2aa4c-c990-47e3-8712-31651255a51b/request/48247617-6b0e8c0c-15c3-48f2-9c1a-97677cb0d4c7?action=share&creator=48247617
